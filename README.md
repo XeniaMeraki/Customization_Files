@@ -7,6 +7,8 @@ These may be freely used and adapted as one wishes. Some knowledge of each progr
 
 ![Noctalia](/Noctalia/Example.png)
 
+My personal websites elsewhere are intended for adults, for everywhere but this github page and its contents.
+
 https://www.youtube.com/@BwarchTheGamer/videos
 
 
