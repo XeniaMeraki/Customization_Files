@@ -1,0 +1,17 @@
+[org/gnome/Ptyxis]
+profile-uuids=['f26c6d18fb299428efca7ecc68fe0b99']
+default-profile-uuid='f26c6d18fb299428efca7ecc68fe0b99'
+interface-style='dark'
+use-system-font=false
+font-name='Maple Mono Bold 11 @wght=700'
+cursor-shape='ibeam'
+cursor-blink-mode='on'
+window-size=(105, 47)
+
+[org/gnome/Ptyxis/Shortcuts]
+copy-clipboard='<Control>c'
+paste-clipboard='<Control>v'
+
+[org/gnome/Ptyxis/Profiles/f26c6d18fb299428efca7ecc68fe0b99]
+label='Xenia'
+palette='Catppuccin Mocha'
