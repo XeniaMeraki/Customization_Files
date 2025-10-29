@@ -8,6 +8,12 @@ These may be freely used and adapted as one wishes. Some knowledge of each progr
 ![Noctalia](/Noctalia/Example.png)
 
 https://www.youtube.com/@BwarchTheGamer/videos
+
+
 https://xeniameraki.com/
+
+
 https://bsky.app/profile/xeniameraki.bsky.social
+
+
 https://discord.com/invite/gkZWX4E
